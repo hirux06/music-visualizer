@@ -1,5 +1,7 @@
 # Audio Visualizer Web App
 
+**Deployed Link**: [https://hirux06.github.io/music-visualizer/](https://hirux06.github.io/music-visualizer/)
+
 Welcome to the Audio Visualizer Web App! This project allows you to visualize audio files with a stunning graphical representation. Upload your audio files and see the audio waveform in real-time, all presented with an attractive, modern design.
 
 ## Features
