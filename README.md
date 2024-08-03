@@ -25,3 +25,34 @@ To get started with this project, follow these steps:
 ```bash
 git clone https://github.com/hirux06/music-visualizer.git
 cd audio-visualizer
+```
+
+## Open the Project
+
+Open `index.html` in your web browser. You can do this by either double-clicking the file or using a local server.
+
+## Upload an Audio File
+
+1. Click the "Choose File" button to select an audio file from your computer.
+2. The visualization of the audio waveform will appear in the canvas element.
+
+## Enjoy the Visualization
+
+Watch the audio waveform change in real-time as the audio plays. The canvas will display a gradient background and a colorful waveform representing the audio data.
+
+## Customization
+
+Feel free to customize the colors and styles to fit your preferences. You can modify the `styles.css` file to adjust the background gradients, button colors, and more.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or want to add new features, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact Saran Hiruthik M(mailto:saran.hiruthik83@gmail.com).
+
